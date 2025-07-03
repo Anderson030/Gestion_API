@@ -1,0 +1,14 @@
+{
+  "productos": [
+    {
+      "nombre": "Mouse gamer RGB",
+      "precio": 85000,
+      "id": "2"
+    },
+    {
+      "id": "b3b0",
+      "nombre": "Auriculares Bluetooth",
+      "precio": 120000
+    }
+  ]
+}
